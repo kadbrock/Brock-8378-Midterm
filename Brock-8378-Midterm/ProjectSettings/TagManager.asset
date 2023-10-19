@@ -6,6 +6,7 @@ TagManager:
   tags:
   - coin
   - door
+  - boulder
   layers:
   - Default
   - TransparentFX
@@ -17,8 +18,8 @@ TagManager:
   - Coin
   - Enemy
   - Door
-  - 
-  - 
+  - Boulder
+  - Boulder Button
   - 
   - 
   - 
