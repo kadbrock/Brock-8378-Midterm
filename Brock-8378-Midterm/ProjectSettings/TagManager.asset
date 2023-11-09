@@ -8,6 +8,7 @@ TagManager:
   - door
   - boulder
   - bullet
+  - player
   layers:
   - Default
   - TransparentFX
